@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 
 ##  Get in Touch
 - **LinkedIn:*https://www.linkedin.com/in/tharun-prakash-g/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FP9PfZIwSU%2BthtOd0QZkzg%3D%3D*   
-- **Email:** tharunprakash999@gmail.com 
+- **Email:** tharunprakash999@gmail.com
+- **LeetCode:** https://leetcode.com/u/unkSNnMRt3/
 ---
 
 ⭐ Thanks for stopping by! Check out more of my work on [my GitHub profile](https://github.com/tharun694)
